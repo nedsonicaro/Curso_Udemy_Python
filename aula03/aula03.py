@@ -1,0 +1,1 @@
+print('Esse é meu "aspas duplas aqui" (str).')
